@@ -19,4 +19,7 @@ let isLoggedin = true;
 
 //object
 let protienType = ["isolate", "whey", "Soy", "Casein", "pea"];
-let userDetails = {firstname : "Harsh", Lastname : "Jha"}
+
+let userDetails = {firstname : "Harsh",
+                   Lastname : "Jha"
+                  }
